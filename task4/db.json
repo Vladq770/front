@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "First item",
+      "body": "...description...",
+      "img": "https://2ch.hk/hry/src/745033/16817661574300.jpg",
+      "code": "1234123123",
+      "deliever": "ООО ТрансОбщажный сервис"
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 2
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 3
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 4
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 5
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 6
+    }
+  ],
+  "creatorInfo": {
+    "name": "Владислав Лаптев",
+    "group": "6408",
+    "repo": "https://github.com/Vladq770"
+  }
+}
